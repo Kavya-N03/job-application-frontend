@@ -1,0 +1,1 @@
+export const BASE_URL = "https://job-application-api-9dp4.onrender.com/api";
